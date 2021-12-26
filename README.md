@@ -47,6 +47,7 @@
 [FA]:README.fa.md
 [FR]:README.fr.md
 [GR]:README.gr.md
+[GE]:README.ge.md
 [HI_IN]:README.hi_in.md
 [ID]:README.id.md
 [IT]:README.it.md
